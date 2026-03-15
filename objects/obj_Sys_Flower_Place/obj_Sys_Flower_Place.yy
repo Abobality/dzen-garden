@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Flower_Place",
+  "%Name":"obj_Sys_Flower_Place",
   "eventList":[],
   "managed":true,
-  "name":"obj_Flower_Place",
+  "name":"obj_Sys_Flower_Place",
   "overriddenProperties":[],
   "parent":{
     "name":"Systems",

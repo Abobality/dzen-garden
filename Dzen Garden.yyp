@@ -23,9 +23,10 @@
   },
   "name":"Dzen Garden",
   "resources":[
+    {"id":{"name":"obj_Flower_Grow","path":"objects/obj_Flower_Grow/obj_Flower_Grow.yy",},},
     {"id":{"name":"obj_Flower_Parent","path":"objects/obj_Flower_Parent/obj_Flower_Parent.yy",},},
-    {"id":{"name":"obj_Flower_Place","path":"objects/obj_Flower_Place/obj_Flower_Place.yy",},},
     {"id":{"name":"obj_Pot","path":"objects/obj_Pot/obj_Pot.yy",},},
+    {"id":{"name":"obj_Sys_Flower_Place","path":"objects/obj_Sys_Flower_Place/obj_Sys_Flower_Place.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_plant_flower","path":"sprites/spr_plant_flower/spr_plant_flower.yy",},},
     {"id":{"name":"spr_pot","path":"sprites/spr_pot/spr_pot.yy",},},
